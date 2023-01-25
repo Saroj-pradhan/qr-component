@@ -1,0 +1,35 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+    max-width: 375px;
+    
+    text-align: center;
+    
+}
+body{
+    background-color: white;
+}
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+.container{
+    background-color:  hsl(219, 100%, 92%);
+}
+.qr-img{
+    width: 250px;
+    height: 250px;
+}
+.container2{
+   margin: 20px;
+   padding: 30px;
+   background-color: white;
+    
+}
+
+
+
+
+
+
+
