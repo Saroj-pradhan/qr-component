@@ -2,11 +2,8 @@
     box-sizing: border-box;
     padding: 0px;
     margin: 0px;
-   
     border: 0px;
-    text-align: center;
-    
-    
+    text-align: center;  
 }
 body{
     background-color: hsl(212, 45%, 89%) ;
@@ -15,32 +12,31 @@ body{
 .attribution a { color: hsl(228, 45%, 44%); }
 
 .container{
-    
+    margin-left: 40%;
+    margin-top: 6%;
     max-width: 295px; 
      background-color: white;
-     border: 20px solid white ;  
+     border: 20px solid white ;
+     border-radius: 25px; 
 }
 
-.container2 img{
-  width: 255px;
- 
-  
-    
-}
-
-.container2{
-    
-     
+.container img{
+  width: 255px;    
 }
 h1{
+    color:  hsl(218, 44%, 22%);
     font-size: 21px;
     font-family: 'Outfit', sans-serif;
-    font-weight: 400 700;
+    font-weight: 700;
     
 }
 .heading{
     margin-top: 20px ;
     margin-bottom: 20px;
+}
+.para1{
+    color: hsl(220, 15%, 55%);
+    font-weight: 400;
 }
 
 
