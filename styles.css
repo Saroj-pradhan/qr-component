@@ -21,7 +21,7 @@ body{
 }
 
 .container img{
-  width: 225px;
+  max-width: 225px;
   border: 2px; 
   border-radius: 15px;   
 }
@@ -36,12 +36,12 @@ h1{
 .heading{
     margin-top: 20px ;
     margin-bottom: 20px;
-    width: 225px;
+    max-width: 225px;
 }
 .para1{
     color: hsl(220, 15%, 55%);
     font-weight: 400;
-    width: 225px;
+    max-width: 225px;
     font-size: 14px;
 
 }
